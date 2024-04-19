@@ -140,6 +140,7 @@ $RECYCLE.BIN/
 .vs/
 .idea/
 .gradle/
+.vsconfig
 
 PackageBackups/
 
